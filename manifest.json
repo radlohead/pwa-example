@@ -1,6 +1,6 @@
 {
     "name": "pwa-example",
-    "start_url": "/pwa-example/index.html",
+    "start_url": "index.html",
     "icons": [
         {
             "src": "icon/fox-icon.png",
